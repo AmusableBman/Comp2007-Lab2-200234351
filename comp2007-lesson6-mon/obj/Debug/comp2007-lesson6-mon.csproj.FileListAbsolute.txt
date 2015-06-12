@@ -1,0 +1,10 @@
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\obj\Debug\comp2007-lesson6-mon.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\comp2007-lesson5-mon.dll.config
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\comp2007-lesson5-mon.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\comp2007-lesson5-mon.pdb
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\EntityFramework.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\EntityFramework.SqlServer.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\EntityFramework.xml
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\bin\EntityFramework.SqlServer.xml
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\obj\Debug\comp2007-lesson5-mon.dll
+C:\Users\Brandon Hewlett\Desktop\College Work\Semester 6\Enterprise Computing\comp2007-lesson6-mon-master\comp2007-lesson6-mon\obj\Debug\comp2007-lesson5-mon.pdb
